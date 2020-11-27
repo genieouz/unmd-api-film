@@ -1,0 +1,5 @@
+/.env
+/node_modules
+/server.js
+/src/models/.User
+/src/controlller/.UserControlller
